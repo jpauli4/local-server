@@ -1,0 +1,99 @@
+body {
+  margin: 50px auto;
+  display: table;
+  background: #D8D4C9;
+}
+
+h1 {
+  align: center;
+  font-color: Black;
+  font-family: monospace;
+  font-size: 64px
+  }
+
+h3 {
+
+  align: center;
+  font-color: Black;
+  font-family: monospace;
+  font-size: 24px
+  }
+
+ul.content {
+  font-family: monospace;
+  font-size: 16px;
+}
+
+div.ast {
+  background-color:white;
+  width:1000px; 
+  height:70px;
+  border-radius:25px;
+}
+
+p {
+  font-family: monospace;
+  font-size: 16px;
+  font-color: black;
+  
+}
+ul.tiles {
+  list-style-type: none;
+  width: 980px;
+}
+
+ul.tiles li {
+  float: left;
+  width: 245px;
+  height: 245px;
+}
+
+ul.tiles li {
+  font-family: 'Pathway Gothic One', sans-serif;
+  line-height: 1;
+  box-sizing: border-box;
+}
+
+ul.tiles li h2 {
+  color: #fbfaf0;
+  font-size: 36px;
+}
+
+ul.tiles li a:link {
+  text-decoration: none;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fbfaf0;
+}
+
+
+ul.tiles li img {
+  width: 245px;
+  height: 245px;
+}
+
+ul.tiles li:first-of-type {
+  background: #83c2fd;
+  text-align: right;
+  padding: 120px 20px;
+}
+
+ul.tiles li:nth-of-type(3) {
+  background: #fd9c71;
+  text-align: right;
+  padding: 120px 20px;
+}
+
+ul.tiles li:nth-of-type(6) {
+  background: #a4dba3;
+  padding: 120px 20px;
+}
+
+ul.tiles li:nth-of-type(8) {
+  background: #C9C2A8;
+  padding: 120px 20px;
+}
+
+
+
+
